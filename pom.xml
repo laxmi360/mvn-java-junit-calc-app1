@@ -3,11 +3,8 @@
   <groupId>com.loksai.eta</groupId>
   <artifactId>mvncalc1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-	<packaging>war<packaging>
-	
-	
 
-<!-- https://mvnrepository.com/artifact/junit/junit -->
+	<!-- https://mvnrepository.com/artifact/junit/junit -->
  <dependencies>
 	<dependency>
 	    <groupId>junit</groupId>
